@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Leonis Ocampo Nieves</h1>
+<h1>Hi 👋, I'm Leonis</h1>
 
 <img src="https://github.com/locamponieves/locamponieves/blob/master/Portada.jpg"/>
 
