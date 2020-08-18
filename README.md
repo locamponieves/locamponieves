@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Webnet**
 
-- 🌱 Actualmente estoy aprendiendo <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
+- 🌱 Actualmente estoy aprendiendo **Angular y Flutter**
 
 <h2>Mis habilidades:</h2>
 
