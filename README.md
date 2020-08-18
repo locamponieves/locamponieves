@@ -10,7 +10,7 @@ Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, dise
 
 - 🌱 I’m currently learning **Angular y Flutter**
 
-<h2 align="left">Skills:</h2>
+
 
 <h3>Programming Language</h3>
 <p align="left">
