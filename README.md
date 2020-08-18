@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png"/>
 
-<p>Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, diseño web y Apps móviles. Me he especializado en el desarrollo web y el área en el que trabajo actualmente es en el Backend</p>
+Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, diseño web y Apps móviles. Me he especializado en el desarrollo web y el área en el que trabajo actualmente es en el **Desarrollo Web Backend**
 
 - 🔭 I’m currently working on **Webnet**
 
