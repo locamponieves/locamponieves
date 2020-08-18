@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, Soy Leonis Ocampo Nieves</h1>
+<img src="https://github.com/patrycja-io/patrycja-io/raw/fcec5afcebf4892437d14d43907fb9f4b9c3fb2c/patrycja.png"/>
 <h3 align="center">Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, diseño web y Apps móviles. Me he especializado en el desarrollo web y el área en el que trabajo actualmente es en el Backend</h3>
 
 - 🔭 I’m currently working on **Akomo**
