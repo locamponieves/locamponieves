@@ -1,14 +1,14 @@
-<h1>Hola 👋, Soy Leonis Ocampo Nieves</h1>
+<h1>Hi 👋, I'm Leonis Ocampo Nieves</h1>
 
 <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png"/>
 
 <p>Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, diseño web y Apps móviles. Me he especializado en el desarrollo web y el área en el que trabajo actualmente es en el Backend</p>
 
-- 🔭 Actualmente estoy trabajando en **Webnet**
+- 🔭 I’m currently working on **Webnet**
 
-- 🌱 Actualmente estoy aprendiendo **Angular y Flutter**
+- 🌱 I’m currently learning **Angular y Flutter**
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills:</h2>
 
 <h3>Frontend Development</h3>
 <p align="left">
