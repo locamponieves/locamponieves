@@ -4,13 +4,15 @@
 
 **Vector utilizado:** <a href='https://www.freepik.es/vectores/tecnologia'>Vector de Tecnología creado por stories - www.freepik.es</a>
 
+<h2 align="left">Sobre mi:</h2>
+
 Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, diseño web y Apps móviles. Me he especializado en el **Desarrollo Web** y el área en el que trabajo actualmente es en el **Desarrollo Backend con C# y .NET Core**
 
 - 🔭 I’m currently working on **WebNet SAS**
 
 - 🌱 I’m currently learning **Angular y Flutter**
 
-
+<h2 align="left">Skills:</h2>
 
 <h3>Programming Language</h3>
 <p align="left">
