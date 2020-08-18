@@ -4,7 +4,7 @@
 
 Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, diseño web y Apps móviles. Me he especializado en el **Desarrollo Web** y el área en el que trabajo actualmente es en el **Desarrollo Backend con C# y .NET Core**
 
-- 🔭 I’m currently working on **Webnet**
+- 🔭 I’m currently working on **WebNet SAS**
 
 - 🌱 I’m currently learning **Angular y Flutter**
 
