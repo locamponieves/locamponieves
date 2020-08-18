@@ -2,7 +2,9 @@
 
 <img src="https://github.com/locamponieves/locamponieves/blob/master/Portada.jpg"/>
 
-**Imagen utilizada:** <a href='https://www.freepik.es/vectores/tecnologia' style="float: right">Vector de Tecnología creado por stories - www.freepik.es</a>
+**Vecto utilizado:** <a href='https://www.freepik.es/vectores/tecnologia'>Vector de Tecnología creado por stories - www.freepik.es</a>
+
+<hr/>
 
 Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, diseño web y Apps móviles. Me he especializado en el **Desarrollo Web** y el área en el que trabajo actualmente es en el **Desarrollo Backend con C# y .NET Core**
 
