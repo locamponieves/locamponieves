@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Leonis Ocampo Nieves</h1>
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png"/>
+<img src="https://github.com/patrycja-io/patrycja-io/raw/fcec5afcebf4892437d14d43907fb9f4b9c3fb2c/patrycja.png"/>
 
 Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, diseño web y Apps móviles. Me he especializado en el **Desarrollo Web** y el área en el que trabajo actualmente es en el **Desarrollo Backend**
 
