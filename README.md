@@ -8,7 +8,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Angular y Flutter**
 
-<h2 align="left">Mis habilidades:</h2>
+<h2 align="left">Skills</h2>
 
 <h3>Frontend Development</h3>
 <p align="left">
