@@ -58,17 +58,3 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
-  
-  
-  
-  
-  
-  
-  
- 
-  
-
-<p align="center">
-<a href="https://linkedin.com/in/locamponieves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="locamponieves" height="30" width="30" /></a>
-</p>
-
