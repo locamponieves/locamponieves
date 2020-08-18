@@ -4,7 +4,7 @@
 
 **Vector utilizado:** <a href='https://www.freepik.es/vectores/tecnologia'>Vector de Tecnología creado por stories - www.freepik.es</a>
 
-<h2 align="left"></h2>
+<p align="left"></p>
 
 Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, diseño web y Apps móviles. Me he especializado en el **Desarrollo Web** y el área en el que trabajo actualmente es en el **Desarrollo Backend con C# y .NET Core**
 
