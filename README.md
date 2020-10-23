@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Leonis</h1>
 
-<img src="https://github.com/locamponieves/locamponieves/blob/master/Portada.jpg"/>
+<img src="https://github.com/locamponieves/locamponieves/blob/master/PortadaGitHub.jpg"/>
 
 **Vector utilizado:** <a href='https://www.freepik.es/vectores/tecnologia'>Vector de Tecnología creado por stories - www.freepik.es</a>
 
