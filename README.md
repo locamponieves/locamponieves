@@ -6,7 +6,7 @@
 
 <h2></h2>
 
-Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, diseño web y Apps móviles. Me he especializado en el **Desarrollo Web** y el área en el que trabajo actualmente es en el **Desarrollo Backend con C# y .NET Core**
+Futuro Ingeniero de sistemas a quien le apasiona el desarrollo de software, diseño web y Apps móviles. Me he especializado en el **Desarrollo Web** y me encanta el **Front-End**
 
 - 🔭 I’m currently working on **WebNet SAS**
 
